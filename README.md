@@ -1,7 +1,8 @@
 《逐梦旅程：Windows游戏编程之从零开始》源代码
 ===============================
+<BR>
 #简介
-这是我在23岁时。出国留学期间，花费一年时间所著的一本关于如何利用Win32和Direct3D、C++开发端游的入门级游戏教程。
+这是我在23岁出国留学期间，花费一年时间所著的一本关于如何利用Win32和Direct3D、C++开发端游的入门级游戏教程。
     
 #一些游戏demo运行截图
 <br>
@@ -22,7 +23,7 @@
 此仓库中仅上传了全部源代码，资源和工程可以移步[这里](http://pan.baidu.com/s/13PVB3)下载。<br>
 <br><br><br>
     
-##配套示例程序的一些说明
+#配套示例程序的一些说明
 
 ###第3章
     1.【FirstBlood!】 一个简单的Windows API示例程序，并附有dota中第一个击杀会播放的很酷的“FirstBlood”音效。
@@ -94,7 +95,7 @@
     41.【D3Ddemo20】造物主的降临：多游戏模型的载入示例程序
 <br>
 <br>
-##一些链接
+#一些链接
 ###[本书的前身——在CSDN连载的【Visual C++】游戏开发专栏](http://blog.csdn.net/column/details/vc-game-programming.html "悬停显示")  
 ###[本书的百度百科](http://baike.baidu.com/link?url=poL_81VLebCBK-7xuXqnPkeqLpgJvKNLYBHSpIoUQC837z7DG3ivMddMOKFmrZnb48woEYpFEj2XZwkMvM5m5q "悬停显示")
 ###[简介、勘误CSDN博文](http://blog.csdn.net/poem_qianmo/article/details/12895487 "悬停显示")  
