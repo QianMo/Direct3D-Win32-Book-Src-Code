@@ -97,10 +97,14 @@
     41.【D3Ddemo20】造物主的降临：多游戏模型的载入示例程序
 <br>
 <br>
+
 # 一些链接
-### [本书的前身——在CSDN连载的【Visual C++】游戏开发专栏](http://blog.csdn.net/column/details/vc-game-programming.html "悬停显示")  
+
+### [本书的前身——在CSDN连载的【Visual C++】游戏开发专栏](http://blog.csdn.net/column/details/vc-game-programming.html "悬停显示") 
+
 ### [本书的百度百科](http://baike.baidu.com/link?url=poL_81VLebCBK-7xuXqnPkeqLpgJvKNLYBHSpIoUQC837z7DG3ivMddMOKFmrZnb48woEYpFEj2XZwkMvM5m5q "悬停显示")
-###[ 简介、勘误CSDN博文](http://blog.csdn.net/poem_qianmo/article/details/12895487 "悬停显示")  
+
+### [ 简介、勘误CSDN博文](http://blog.csdn.net/poem_qianmo/article/details/12895487 "悬停显示")  
 <br>
 
 <br>
